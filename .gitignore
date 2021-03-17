@@ -1,0 +1,4 @@
+node_modules
+.env
+
+#make sure .src/uploads doesn't contain files
